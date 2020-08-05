@@ -1,0 +1,30 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+body
+{
+     background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+.main
+{
+   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    text-align: left;
+    margin-bottom:  20px;
+
+     font-family: cursive;
+
+}
